@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a8eb261-645b-4715-a8a0-4cc05ce116e3" width="800">
+</p>
+<p align="center"><b>f/society // 0x00🔑</b></p>
 
-<!--
-**aekawh-sketch/aekawh-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 0x01 // identity
 
-Here are some ideas to get you started:
+hello, friend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+
+-
+-
+-
+-
+
+## My Social
+
+[![Telegram](https://img.shields.io/badge/TG_CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lolkillas)
