@@ -9,7 +9,7 @@ hello, friend.
 
 ## My projects
 
-- https://github.com/aekawh-sketch/macOs-Sounpad
+- [macOs Sounpad](https://github.com/aekawh-sketch/macOs-Sounpad)
 -
 -
 -
